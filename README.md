@@ -13,4 +13,6 @@ git push origin main
 
 git status # uzzinat kads ir status
 
+git config user.name "Māris Danne"
+git config user.email "maris.danne@rvt.lv"
  ```
